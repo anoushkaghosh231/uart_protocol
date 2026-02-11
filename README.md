@@ -7,3 +7,5 @@
 - Top Module – integrates the generator, transmitter, and receiver, wiring the transmitter output directly to the receiver input for loopback testing.
 
 It brings together a transmitter, receiver, and baud‑rate generator into a simple top‑level design, with testbenches to verify everything in simulation. The transmitter pushes out bytes bit‑by‑bit, the receiver oversamples to capture them reliably, and the baud generator keeps both sides in sync.
+
+<img width="1477" height="647" alt="image" src="https://github.com/user-attachments/assets/70cc86fd-2eeb-4b46-a29c-b6cfb78029b9" />
